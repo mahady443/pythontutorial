@@ -1,0 +1,9 @@
+,animal,age,visits,priority
+a,dog,2.5,1,yes
+b,cat,2.0,3,yes
+c,snake,5.0,2,no
+d,dog1,5.0,3,no
+e,frog,10.0,1,yes
+f,bird,4.5,3,yes
+g,crocodile,15.0,1,no
+h,elephent,36.0,2,yes
